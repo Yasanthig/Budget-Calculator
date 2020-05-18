@@ -123,6 +123,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "budget-app"
+    }
+  },
+  "defaultProject": "budget-app",
+  "cli": {
+    "analytics": "1e8b0579-7df4-49d1-a8d6-d49beb38bcf8"
+  }
 }
